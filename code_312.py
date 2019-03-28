@@ -395,3 +395,4 @@ for i in range(len(hist1_b)):
 x=range(31)
 plt.plot(x,np.r_[num_hist[1],[0,0]],'b')       
 plt.plot(x,num_hist[3],'k')
+
